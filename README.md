@@ -1,12 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+#  JSON Schema Builder
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a simple and user-friendly web application built using **ReactJS** and **TailwindCSS**.  
+It allows users to create a **dynamic JSON schema** visually by adding, editing, and removing fields.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add fields dynamically
+- Edit field keys and types
+- Delete any field
+- Support for nested fields (recursive)
+- Real-time JSON output
+- Copy JSON output with one click
+- Responsive and clean UI
+
+## 📸 Demo
+
+<img width="1915" height="929" alt="image" src="https://github.com/user-attachments/assets/2866486d-451d-4102-b0bc-964ddbfbb1a8" />
+
+
+## 🛠 Tech Stack
+
+- ReactJS 
+- Tailwind CSS
+- React Icons (Lucide)
+- UUID (for unique field IDs)
+
+
+## 🔧 How to Run Locally
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/your-username/json-schema-builder.git
+cd json-schema-builder
+
+
