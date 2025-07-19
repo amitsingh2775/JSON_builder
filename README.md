@@ -18,6 +18,8 @@ It allows users to create a **dynamic JSON schema** visually by adding, editing,
 ## 📸 Demo
 
 <img width="1915" height="929" alt="image" src="https://github.com/user-attachments/assets/2866486d-451d-4102-b0bc-964ddbfbb1a8" />
+<img width="1905" height="1027" alt="image" src="https://github.com/user-attachments/assets/3d155a94-da67-4064-8b97-2723f6a1c5b1" />
+
 
 
 ## 🛠 Tech Stack
@@ -33,7 +35,7 @@ It allows users to create a **dynamic JSON schema** visually by adding, editing,
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/json-schema-builder.git
-cd json-schema-builder
+https://github.com/amitsingh2775/JSON_builder.git
+cd JSON_builder
 
 
